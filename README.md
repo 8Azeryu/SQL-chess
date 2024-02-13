@@ -1,7 +1,6 @@
 **GitHub Repository: SQL**-octave-chess
 
-**Description:** This repository contains a SQL query analysis of a material assets store. It highlights the revenue and sales figures for various regions, categories, and top-selling goods in a variety of ways.
-
+**Description:** In this repository you will find chess players moves analysed in SQL technology, csv tables of top players and their winning ratio.
 Repository Structure:
 
 >SQL query/: A directory housing individual SQL files for each aspect of the analysis.
