@@ -1,4 +1,4 @@
-**GitHub Repository: SQL**-octave-chess
+**GitHub Repository: SQL**-chess
 
 **Description:** In this repository you will find chess players moves analysed in SQL technology, csv tables of top players and their winning ratio.
 
